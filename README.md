@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sakshi.
-- 🌱 I’m currently learning data science.
-- Looking forward to get a job in data science sector.
+- 🌱 I’m currently working as SAP Hybris Developer at Accenture.
 
 <!---
 sb21feb/sb21feb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
